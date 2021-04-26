@@ -43,5 +43,7 @@ You can check our [Google photos album](https://photos.app.goo.gl/PUdDLUDadChEh1
 <p float="left">
   <img src="https://user-images.githubusercontent.com/5796258/116056156-1658eb80-a69b-11eb-8032-8abcfeb9c9cc.jpeg" width="300" />
   <img src="https://user-images.githubusercontent.com/5796258/116056069-ff19fe00-a69a-11eb-86b2-0c16ae8b4f79.jpeg" width="300" /> 
-  <img src="https://user-images.githubusercontent.com/5796258/116056789-cd556700-a69b-11eb-89ba-038f017526a3.jpeg" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/5796258/116056789-cd556700-a69b-11eb-89ba-038f017526a3.jpeg" width="300" />
+  <img src="https://user-images.githubusercontent.com/5796258/116060212-4b673d00-a69f-11eb-9347-8341461ef971.jpeg" width="300" />
+  
 </p>
