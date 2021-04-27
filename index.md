@@ -21,8 +21,9 @@ We need 65 Rs per packet of food we deliver. To help us in this initiative you c
 #### UPI
 Please transfer amounts directly to the below contacts
 - 𝟖𝟐𝟏𝟖𝟖𝟕𝟗𝟐𝟒𝟒@𝐩𝐚𝐲𝐭𝐦 (𝐒𝐚𝐮𝐦𝐚𝐲𝐚 𝐆𝐮𝐩𝐭𝐚) 
-- 𝟖𝟏𝟐𝟑𝟕𝟕𝟕𝟖𝟏𝟕 (𝐀𝐛𝐡𝐢𝐬𝐡𝐞𝐤 𝐂𝐡𝐨𝐰𝐝𝐡𝐚𝐫𝐲)
-- 𝟖𝟗𝟕𝟏𝟑𝟎𝟑𝟏𝟐𝟑 (𝐍𝐢𝐭𝐢𝐧 𝐤𝐢𝐬𝐡𝐨𝐫 𝐬𝐚𝐜𝐡𝐚𝐧)
+
+#### Paytm Wallet
+- 𝟖𝟐𝟏𝟖𝟖𝟕𝟗𝟐𝟒𝟒 (Saumaya Gupta)
 
 #### Account Details
 
