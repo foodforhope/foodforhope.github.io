@@ -6,6 +6,10 @@ We are offering food to people outside of hospitals, to hospital staff and patie
 1. Provide breakfast and dinner for atleast 50 patients
 2. Provide 150 food packets at least to multiple public health care centers
 3. Provide food for people waiting outside hospitals etc. 
+4. 50 Food plates to Maharaja Aggrasen hospital for Covid patients
+5. 150 food boxes to K R Puram Government hospital 
+
+__Till date we have distributed over 1080 food packets, including 100+ patient specific plates__
 
 ## Join us on Telegram
 Follow [this](https://t.me/FoodForHope) channel to recieve regular updates on our mission and the progress we make. 
@@ -21,9 +25,15 @@ We need 65 Rs per packet of food we deliver. To help us in this initiative you c
 #### UPI
 Please transfer amounts directly to the below contacts
 - 𝟖𝟐𝟏𝟖𝟖𝟕𝟗𝟐𝟒𝟒@𝐩𝐚𝐲𝐭𝐦 (𝐒𝐚𝐮𝐦𝐚𝐲𝐚 𝐆𝐮𝐩𝐭𝐚) 
-
+- 8218879244 (Google Pay)
 #### Paytm Wallet
 - 𝟖𝟐𝟏𝟖𝟖𝟕𝟗𝟐𝟒𝟒 (Saumaya Gupta)
+
+#### Whatsapp
+You can pay on the following account
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/5796258/116341438-8df35b80-a7fe-11eb-8fbd-002fa4cfd23b.jpeg" width="500" />
+</p>
 
 #### Account Details
 
@@ -37,6 +47,8 @@ Please transfer amounts directly to the below contacts
 
 Kindly send us your payment confirmation on foodforhope00@gmail.com so that we can revert with confirmation. For tracking purposes it would help us a lot if you could fill this [Google Form](https://forms.gle/MrSGPGru2aURSCbA8)
 
+You could also send the payment confirmation to 8218879244 over Whatsapp.
+
 # Some happy moments
 You can check our [Google photos album](https://photos.app.goo.gl/PUdDLUDadChEh1Hf9) for more pictures of our volunteer activities.
 
@@ -48,3 +60,5 @@ You can check our [Google photos album](https://photos.app.goo.gl/PUdDLUDadChEh1
   <img src="https://user-images.githubusercontent.com/5796258/116060212-4b673d00-a69f-11eb-9347-8341461ef971.jpeg" width="300" />
   
 </p>
+
+
