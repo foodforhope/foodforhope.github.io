@@ -26,6 +26,7 @@ We need 65 Rs per packet of food we deliver. To help us in this initiative you c
 Please transfer amounts directly to the below contacts
 - 𝟖𝟐𝟏𝟖𝟖𝟕𝟗𝟐𝟒𝟒@𝐩𝐚𝐲𝐭𝐦 (𝐒𝐚𝐮𝐦𝐚𝐲𝐚 𝐆𝐮𝐩𝐭𝐚) 
 - 8218879244 (Google Pay)
+
 #### Paytm Wallet
 - 𝟖𝟐𝟏𝟖𝟖𝟕𝟗𝟐𝟒𝟒 (Saumaya Gupta)
 
