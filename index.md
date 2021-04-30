@@ -9,7 +9,7 @@ We are offering food to people outside of hospitals, to hospital staff and patie
 4. 50 Food plates to Maharaja Aggrasen hospital for Covid patients
 5. 150 food boxes to K R Puram Government hospital 
 
-__Till date we have distributed over 1080 food packets, including 100+ patient specific plates__
+__Till date we have distributed over 2075 food packets, including 160+ patient specific plates__
 
 ## Join us on Telegram
 Follow [this](https://t.me/FoodForHope) channel to recieve regular updates on our mission and the progress we make. 
