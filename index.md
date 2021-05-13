@@ -22,9 +22,9 @@ We need 65 Rs per packet of food we deliver. To help us in this initiative you c
 
 **Disclaimer: We are yet to Register our organisation as a Non profit. We are in the process and will inform about any updates in the telegram channel**
 
-**ATTENTION : CUURRENTLY THE FOLLOWING ACCOUNT IS NOT ABLE TO TAKE ANY MORE PAYMENTS, KINDLY TRANSFER THE DONATION AMOUNT TO THE FOLLOWING UPI ADDRESS FOR NOW**
+**ATTENTION: CURRENTLY OUR EXISTING ACCOUNT IS NOT ABLE TO TAKE ANY MORE PAYMENTS, KINDLY TRANSFER THE DONATION AMOUNT TO THE FOLLOWING UPI ADDRESS FOR NOW -**
 
-**jyotsna.thapliyal22@okhdfc**
+**jyotsna.thapliyal22@okhdfc** (Jyotsna Thapliyal)
 
 #### UPI (Not functional currently)
 Please transfer amounts directly to the below contacts
