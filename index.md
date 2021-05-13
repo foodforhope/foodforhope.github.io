@@ -22,7 +22,10 @@ We need 65 Rs per packet of food we deliver. To help us in this initiative you c
 
 **Disclaimer: We are yet to Register our organisation as a Non profit. We are in the process and will inform about any updates in the telegram channel**
 
-#### UPI
+**ATTENTION : CUURRENTLY THE FOLLOWING ACCOUNT IS NOT ABLE TO TAKE ANY MORE PAYMENTS, KINDLY TRANSFER THE DONATION AMOUNT TO THE FOLLOWING UPI ADDRESS FOR NOW**
+**jyotsna.thapliyal22@okhdfc**
+
+#### UPI (Not functional currently)
 Please transfer amounts directly to the below contacts
 - 𝟖𝟐𝟏𝟖𝟖𝟕𝟗𝟐𝟒𝟒@𝐩𝐚𝐲𝐭𝐦 (𝐒𝐚𝐮𝐦𝐚𝐲𝐚 𝐆𝐮𝐩𝐭𝐚) 
 - 8218879244 (Kush Goyal: Google Pay)
@@ -36,7 +39,7 @@ You can pay on the following account
   <img src="https://user-images.githubusercontent.com/5796258/116341438-8df35b80-a7fe-11eb-8fbd-002fa4cfd23b.jpeg" width="500" />
 </p>
 
-#### Account Details
+#### Account Details (Not functional currently)
 
 **Account number**: 918218879244
 
