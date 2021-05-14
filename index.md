@@ -15,40 +15,38 @@ __Till date we have distributed over 2075 food packets, including 160+ patient s
 Follow [this](https://t.me/FoodForHope) channel to recieve regular updates on our mission and the progress we make. 
 
 ## How can you help?
+
+**Disclaimer: We are yet to Register our organisation as a Non profit. We are in the process and will inform about any updates in the telegram channel**
+
 ### Volunteer
 We are severely short on the man power needed to carry out our daily mission. Help us in delivering these meals if you are in bangalore. We will take all the precautions necessary to protect us as well as others. Get in touch with us at foodforhope00@gmail.com.
 ### Donations
 We need 65 Rs per packet of food we deliver. To help us in this initiative you can contirbute a small amount. 
 
-**Disclaimer: We are yet to Register our organisation as a Non profit. We are in the process and will inform about any updates in the telegram channel**
-
 **ATTENTION: CURRENTLY OUR EXISTING ACCOUNT IS NOT ABLE TO TAKE ANY MORE PAYMENTS, KINDLY TRANSFER THE DONATION AMOUNT TO THE FOLLOWING UPI ADDRESS FOR NOW -**
 
-**jyotsna.thapliyal22@okhdfc** (Jyotsna Thapliyal)
+Phonepay and Google Pay number
+**9971139199**
 
-#### UPI (Not functional currently)
+<!--#### UPI (Not functional currently)
 Please transfer amounts directly to the below contacts
-- 𝟖𝟐𝟏𝟖𝟖𝟕𝟗𝟐𝟒𝟒@𝐩𝐚𝐲𝐭𝐦 (𝐒𝐚𝐮𝐦𝐚𝐲𝐚 𝐆𝐮𝐩𝐭𝐚) 
-- 8218879244 (Kush Goyal: Google Pay)
+𝟖𝟐𝟏𝟖𝟖𝟕𝟗𝟐𝟒𝟒@𝐩𝐚𝐲𝐭𝐦 (𝐒𝐚𝐮𝐦𝐚𝐲𝐚 𝐆𝐮𝐩𝐭𝐚) 
+8218879244 (Kush Goyal: Google Pay) -->
 
-#### Paytm Wallet
-- 𝟖𝟐𝟏𝟖𝟖𝟕𝟗𝟐𝟒𝟒 (Saumaya Gupta)
+<!--#### Paytm Wallet
+ 𝟖𝟐𝟏𝟖𝟖𝟕𝟗𝟐𝟒𝟒 (Saumaya Gupta) -->
 
-#### Whatsapp
+<!--#### Whatsapp
 You can pay on the following account
 <p float="left">
   <img src="https://user-images.githubusercontent.com/5796258/116341438-8df35b80-a7fe-11eb-8fbd-002fa4cfd23b.jpeg" width="500" />
-</p>
+</p> -->
 
-#### Account Details (Not functional currently)
-
-**Account number**: 918218879244
-
+<!--#### Account Details (Not functional currently)
+**Account number**: 918218879244 
 **IFSC**: PYTM0123456
-
 **Bank**: Paytm Bank
-
-**Name**: Saumaya Gupta
+**Name**: Saumaya Gupta -->
 
 Kindly send us your payment confirmation on foodforhope00@gmail.com so that we can revert with confirmation. For tracking purposes it would help us a lot if you could fill this [Google Form](https://forms.gle/MrSGPGru2aURSCbA8)
 
