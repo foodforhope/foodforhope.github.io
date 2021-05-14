@@ -6,13 +6,13 @@ India is being ravaged by the tsunami of Covid-19 cases. In this difficult time,
 
 We are offering food to people outside of hospitals, to hospital staff and patients. You can join hands and provide your details in this [Google Form](https://forms.gle/MrSGPGru2aURSCbA8). Details collected here will be kept private and deleted after 30 days. You can choose any amount to donate in terms of  number of food packets. Currently each packet is costing us 65 Rupees. If there will be any change in menu or price, we will adjust boxes accordingly. This drive is currently active in Bangalore.
 ## Our Daily Aim 
-1. Provide breakfast and dinner for atleast 50 patients
-2. Provide 150 food packets at least to multiple public health care centers
-3. Provide food for people waiting outside hospitals etc. 
-4. 50 Food plates to Maharaja Aggrasen hospital for Covid patients
-5. 150 food boxes to K R Puram Government hospital 
+1. Provide 150 Meal boxes to K R Puram government hospital (Covid care hospital) staff and patients. 
+2. Provide 50 Meal boxes to NAMS for cancer patients
+3. Provide 75 meal boxes to differently-abled people living in Banashankari slum area under Bharat trust
+4. 100 Meal boxes to public health care centers across varthur, gunjur, whitefield area
+5. 50+ Meal boxes to homeless people 
 
-__Till date we have distributed over 2075 food packets, including 160+ patient specific plates__
+__Till date we have distributed over 9135 food packets__
 
 ## Join us on Telegram
 Follow [this](https://t.me/FoodForHope) channel to recieve regular updates on our mission and the progress we make. 
