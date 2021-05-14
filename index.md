@@ -29,7 +29,7 @@ We need 65 Rs per packet of food we deliver. To help us in this initiative you c
 **ATTENTION: CURRENTLY OUR EXISTING ACCOUNT IS NOT ABLE TO TAKE ANY MORE PAYMENTS, KINDLY TRANSFER THE DONATION AMOUNT TO THE FOLLOWING UPI ADDRESS FOR NOW -**
 
 Phonepay and Google Pay number
-**9971139199**
+**9971139199 (Kush Goyal)**
 
 <!--#### UPI (Not functional currently)
 Please transfer amounts directly to the below contacts
