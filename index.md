@@ -2,11 +2,11 @@
 India is being ravaged by the tsunami of Covid-19 cases. In this difficult time, it's always the most vulnerable sections of our society who suffer. To help them we are starting a service to provide emergency food to these people. We need your donations to help procure food supplies which we distribute daily across hospitals in bangalore.
 ## Hi we are team FoodForHope
 
-
+<!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=_-6dE9r-ziw" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_-6dE9r-ziw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-
+<!-- blank line -->
 
 We are offering food to people outside of hospitals, to hospital staff and patients. You can join hands and provide your details in this [Google Form](https://forms.gle/MrSGPGru2aURSCbA8). Details collected here will be kept private and deleted after 30 days. You can choose any amount to donate in terms of  number of food packets. Currently each packet is costing us 65 Rupees. If there will be any change in menu or price, we will adjust boxes accordingly. This drive is currently active in Bangalore.
 ## Our Daily Aim 
