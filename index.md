@@ -16,7 +16,7 @@ We are offering food to people outside of hospitals, to hospital staff and patie
 4. 100 Meal boxes to public health care centers across varthur, gunjur, whitefield area
 5. 50+ Meal boxes to homeless people 
 
-__Till date we have distributed over 9135 food packets__
+__Till date we have distributed over 10065 food packets__
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTCpzmuU7A5e7-fnUMeO1Vrck5e5-1p-yWXHaljiovSWrKfBvqxLJ4ouYTgnbV65kOw24N79baYqWIN/pubhtml?gid=420595909&amp;single=false&amp;widget=true&amp;headers=false"></iframe>
 
