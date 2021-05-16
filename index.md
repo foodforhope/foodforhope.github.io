@@ -43,12 +43,10 @@ We need **Rs 65** per packet of food we deliver. To help us in this initiative y
 
 
 #### UPI details
-|||
-|-----------------|:-------------|
-|**Name** | **Kush Goyal**|
-|**UPI Handle** | 9971139199@paytm|
-|**Pay me on Paytm** | https://p.paytm.me/xCTH/c5290e13|
-|**Phonepay and Google Pay number** | 9971139199 |
+**Name**  **Kush Goyal**
+**UPI Handle**  9971139199@paytm
+**Pay me on Paytm**  https://p.paytm.me/xCTH/c5290e13
+**Phonepay and Google Pay number**  9971139199 
 
 
 <!--#### Whatsapp
@@ -58,12 +56,10 @@ You can pay on the following account
 </p> -->
 
 #### Bank account details
-|||
-|-----------------|:-------------|
-|**Name** | **Kush Goyal**
-|**Account Number** | 919971139199|
-|**IFSC** | PYTM0123456|
-|**UPI ID** | 9971139199@paytm|
+**Name**  **Kush Goyal**
+**Account Number**  919971139199
+**IFSC** PYTM0123456
+**UPI ID**  9971139199@paytm
 
 Kindly send us your payment confirmation on foodforhope00@gmail.com so that we can revert with confirmation. For tracking purposes it would help us a lot if you could fill this [Google Form](https://forms.gle/MrSGPGru2aURSCbA8)
 
