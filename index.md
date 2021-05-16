@@ -3,7 +3,7 @@ India is being ravaged by the tsunami of Covid-19 cases. In this difficult time,
 ## Hi we are team FoodForHope
 
 <!-- blank line -->
-<figure class="video_container">
+<figure class="video_container" align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_-6dE9r-ziw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
@@ -16,9 +16,9 @@ We are offering food to people outside of hospitals, to hospital staff and patie
 4. 100 Meal boxes to public health care centers across varthur, gunjur, whitefield area
 5. 50+ Meal boxes to homeless people 
 
-__Till date we have distributed over 10065 food packets__
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTCpzmuU7A5e7-fnUMeO1Vrck5e5-1p-yWXHaljiovSWrKfBvqxLJ4ouYTgnbV65kOw24N79baYqWIN/pubhtml?gid=420595909&amp;single=false&amp;widget=true&amp;headers=false"></iframe>
+<p align="center">
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTCpzmuU7A5e7-fnUMeO1Vrck5e5-1p-yWXHaljiovSWrKfBvqxLJ4ouYTgnbV65kOw24N79baYqWIN/pubhtml?gid=420595909&amp;single=false&amp;widget=true&amp;headers=false"></iframe>
+</p>
 
 ## Join us on Telegram
 Follow [this](https://t.me/FoodForHope) channel to recieve regular updates on our mission and the progress we make. 
@@ -28,22 +28,28 @@ Follow [this](https://t.me/FoodForHope) channel to recieve regular updates on ou
 **Disclaimer: We are yet to Register our organisation as a Non profit. We are in the process and will inform about any updates in the telegram channel**
 
 ### Volunteer
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/8949375/118404818-307e5c00-b692-11eb-9f43-8f25c2b80d2f.jpeg" width="300" />
+</p>
+
 We are severely short on the man power needed to carry out our daily mission. Help us in delivering these meals if you are in bangalore. We will take all the precautions necessary to protect us as well as others. Get in touch with us at foodforhope00@gmail.com.
 ### Donations
-We need 65 Rs per packet of food we deliver. To help us in this initiative you can contirbute a small amount. 
+We need **Rs 65** per packet of food we deliver. To help us in this initiative you can contirbute a small amount. 
 
-**ATTENTION: CURRENTLY OUR EXISTING ACCOUNT IS NOT ABLE TO TAKE ANY MORE PAYMENTS, KINDLY TRANSFER THE DONATION AMOUNT TO THE FOLLOWING UPI ADDRESS FOR NOW -**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/8949375/118404840-49870d00-b692-11eb-994b-4cca7e3e74fd.jpeg" width="300" />
+</p>
 
-Phonepay and Google Pay number
-**9971139199 (Kush Goyal)**
 
-<!--#### UPI (Not functional currently)
-Please transfer amounts directly to the below contacts
-𝟖𝟐𝟏𝟖𝟖𝟕𝟗𝟐𝟒𝟒@𝐩𝐚𝐲𝐭𝐦 (𝐒𝐚𝐮𝐦𝐚𝐲𝐚 𝐆𝐮𝐩𝐭𝐚) 
-8218879244 (Kush Goyal: Google Pay) -->
 
-<!--#### Paytm Wallet
- 𝟖𝟐𝟏𝟖𝟖𝟕𝟗𝟐𝟒𝟒 (Saumaya Gupta) -->
+#### UPI details
+|||
+|-----------------|:-------------|
+|**Name** | **Kush Goyal**|
+|**UPI Handle** | 9971139199@paytm|
+|**Pay me on Paytm** | https://p.paytm.me/xCTH/c5290e13|
+|**Phonepay and Google Pay number** | 9971139199 |
+
 
 <!--#### Whatsapp
 You can pay on the following account
@@ -51,11 +57,13 @@ You can pay on the following account
   <img src="https://user-images.githubusercontent.com/5796258/116341438-8df35b80-a7fe-11eb-8fbd-002fa4cfd23b.jpeg" width="500" />
 </p> -->
 
-<!--#### Account Details (Not functional currently)
-**Account number**: 918218879244 
-**IFSC**: PYTM0123456
-**Bank**: Paytm Bank
-**Name**: Saumaya Gupta -->
+#### Bank account details
+|||
+|-----------------|:-------------|
+|**Name** | **Kush Goyal**
+|**Account Number** | 919971139199|
+|**IFSC** | PYTM0123456|
+|**UPI ID** | 9971139199@paytm|
 
 Kindly send us your payment confirmation on foodforhope00@gmail.com so that we can revert with confirmation. For tracking purposes it would help us a lot if you could fill this [Google Form](https://forms.gle/MrSGPGru2aURSCbA8)
 
