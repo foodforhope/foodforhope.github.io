@@ -1,4 +1,7 @@
 # Food For Hope
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/8949375/118531695-be764780-b763-11eb-92e9-baa7c84b1ee6.jpg" width="200" />
+</p>
 India is being ravaged by the tsunami of Covid-19 cases. In this difficult time, it's always the most vulnerable sections of our society who suffer. To help them we are starting a service to provide emergency food to these people. We need your donations to help procure food supplies which we distribute daily across hospitals in bangalore.
 ## Hi we are team FoodForHope
 
@@ -22,6 +25,9 @@ We are offering food to people outside of hospitals, to hospital staff and patie
 
 ## Join us on Telegram
 Follow [this](https://t.me/FoodForHope) channel to recieve regular updates on our mission and the progress we make. 
+
+### <i class="fab fa-instagram"></i> Instagram
+
 
 ## How can you help?
 
