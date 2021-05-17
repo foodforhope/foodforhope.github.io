@@ -35,7 +35,7 @@ Follow [this](https://t.me/FoodForHope) channel to recieve regular updates on ou
 
 ### Volunteer
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/8949375/118404818-307e5c00-b692-11eb-9f43-8f25c2b80d2f.jpeg" width="300" />
+  <img src="https://user-images.githubusercontent.com/8949375/118404818-307e5c00-b692-11eb-9f43-8f25c2b80d2f.jpeg" width="500" />
 </p>
 
 We are severely short on the man power needed to carry out our daily mission. Help us in delivering these meals if you are in bangalore. We will take all the precautions necessary to protect us as well as others. Get in touch with us at foodforhope00@gmail.com.
@@ -43,7 +43,7 @@ We are severely short on the man power needed to carry out our daily mission. He
 We need **Rs 65** per packet of food we deliver. To help us in this initiative you can contirbute a small amount. 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/8949375/118404840-49870d00-b692-11eb-994b-4cca7e3e74fd.jpeg" width="300" />
+  <img src="https://github.com/foodforhope/foodforhope.github.io/blob/08a0e0e9d8853c65e5c40494b3372fefac9461e9/WhatsApp%20Image%202021-05-15%20at%2011.49.22%20AM.jpeg" width="800" />
 </p>
 
 
