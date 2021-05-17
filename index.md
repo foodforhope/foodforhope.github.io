@@ -26,8 +26,18 @@ We are offering food to people outside of hospitals, to hospital staff and patie
 ## Join us on Telegram
 Follow [this](https://t.me/FoodForHope) channel to recieve regular updates on our mission and the progress we make. 
 
-### <i class="fab fa-instagram"></i> Instagram
-
+## Our social media presence
+<p align="center">
+  <a href="https://www.instagram.com/food_forhope/">
+    <img src="https://user-images.githubusercontent.com/8949375/118534793-46118580-b767-11eb-9c2e-bcfbbfb5d368.png" width="100" />
+  </a>
+  <a href="https://www.facebook.com/foodforhope1"> 
+    <img src="https://user-images.githubusercontent.com/8949375/118534832-5164b100-b767-11eb-8f1f-8b0f999eb9e6.png" width="100" />
+  </a>
+  <a href="https://twitter.com/foodforhope2">
+    <img src="https://user-images.githubusercontent.com/8949375/118534846-56296500-b767-11eb-9eb9-2c10a0631e73.png" width="100" />
+  </a>
+</p>
 
 ## How can you help?
 
@@ -35,7 +45,7 @@ Follow [this](https://t.me/FoodForHope) channel to recieve regular updates on ou
 
 ### Volunteer
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/8949375/118404818-307e5c00-b692-11eb-9f43-8f25c2b80d2f.jpeg" width="500" />
+  <img src="https://user-images.githubusercontent.com/8949375/118404818-307e5c00-b692-11eb-9f43-8f25c2b80d2f.jpeg" width="300" />
 </p>
 
 We are severely short on the man power needed to carry out our daily mission. Help us in delivering these meals if you are in bangalore. We will take all the precautions necessary to protect us as well as others. Get in touch with us at foodforhope00@gmail.com.
@@ -43,7 +53,7 @@ We are severely short on the man power needed to carry out our daily mission. He
 We need **Rs 65** per packet of food we deliver. To help us in this initiative you can contirbute a small amount. 
 
 <p align="center">
-  <img src="https://github.com/foodforhope/foodforhope.github.io/blob/08a0e0e9d8853c65e5c40494b3372fefac9461e9/WhatsApp%20Image%202021-05-15%20at%2011.49.22%20AM.jpeg" width="800" />
+  <img src="https://user-images.githubusercontent.com/8949375/118404840-49870d00-b692-11eb-994b-4cca7e3e74fd.jpeg" width="300" />
 </p>
 
 
@@ -58,7 +68,7 @@ We need **Rs 65** per packet of food we deliver. To help us in this initiative y
 <!--#### Whatsapp
 You can pay on the following account
 <p float="left">
-  <img src="https://github.com/foodforhope/foodforhope.github.io/blob/08a0e0e9d8853c65e5c40494b3372fefac9461e9/WhatsApp%20Image%202021-05-15%20at%2011.49.22%20AM.jpeg" width="500" />
+  <img src="https://user-images.githubusercontent.com/5796258/116341438-8df35b80-a7fe-11eb-8fbd-002fa4cfd23b.jpeg" width="500" />
 </p> -->
 
 #### Bank account details
@@ -66,7 +76,6 @@ You can pay on the following account
 - **Account Number**  919971139199
 - **IFSC** PYTM0123456
 - **UPI ID**  9971139199@paytm
-
 
 Kindly send us your payment confirmation on foodforhope00@gmail.com so that we can revert with confirmation. For tracking purposes it would help us a lot if you could fill this [Google Form](https://forms.gle/MrSGPGru2aURSCbA8)
 
