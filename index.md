@@ -53,9 +53,8 @@ We are severely short on the man power needed to carry out our daily mission. He
 We need **Rs 65** per packet of food we deliver. To help us in this initiative you can contirbute a small amount. 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/8949375/118404840-49870d00-b692-11eb-994b-4cca7e3e74fd.jpeg" width="300" />
+  <img src="https://user-images.githubusercontent.com/8949375/118634746-849f5280-b7f0-11eb-821e-737b89d6aab2.jpeg" width="300" />
 </p>
-
 
 
 #### UPI details
